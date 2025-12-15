@@ -1,0 +1,10 @@
+# Ignorar todo
+/*
+
+# Permitir la carpeta TP3 y todo su contenido
+!/TP3/
+!/TP3/**
+
+# Permitir archivos básicos del repo
+!.gitignore
+!README.md
