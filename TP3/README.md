@@ -10,8 +10,6 @@ El programa genera en la carpeta videos_salida/:
     analisis_tirada_X.png - Imagen del frame analizado con las detecciones
     mascara_tirada_X.png - Máscara de segmentación de los dados
 
-    En la carpeta depuracion/ se guardan imágenes de debug para cada dado.
-
 Algoritmo
     Etapa 1: Detección de Movimiento
     Compara frames consecutivos usando diferencia absoluta
